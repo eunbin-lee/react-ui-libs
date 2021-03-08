@@ -1,7 +1,4 @@
-## React UI Libraries
-
-<br>
-<br>
+# React UI Libraries
 
 ```
 본 게시글에서 소개되는 UI 라이브러리들은 프로젝트를 통해 오랫동안 직접 사용해본 것이 아닌
@@ -11,9 +8,9 @@
 <br>
 <br>
 
-### 👩🏻‍💻 Material UI
+## 👩🏻‍💻 Material UI
 
-> [material UI 공식사이트](https://material-ui.com/)
+> [material UI 공식사이트](https://material-ui.com/)<br>
 > 구글 머테리얼 디자인을 기반으로 제작된 UI 라이브러리
 
 📌 **설치 방법**
@@ -72,9 +69,9 @@ const Hover = styled('div')({
 <br>
 <br>
 
-### 👩🏻‍💻 Ant Design
+## 👩🏻‍💻 Ant Design
 
-> [Ant Design 공식사이트](https://ant.design/)
+> [Ant Design 공식사이트](https://ant.design/)<br>
 > 리액트와 타입스크립트(Typescript) 기반으로 제작된 UI 라이브러리
 > 알리바바 그룹의 자회사로 핀테크 기술을 개발하는 Ant Financial에서 제공
 
@@ -95,7 +92,7 @@ import 'antd/dist/antd.css';
 ```
 
 ```javascript
-// antd를 사용할 컴포넌트
+// your component
 import React, { useState } from 'react';
 import { Button } from 'antd';
 
@@ -125,9 +122,9 @@ export default Antd;
 <br>
 <br>
 
-### 👩🏻‍💻 Chakra UI
+## 👩🏻‍💻 Chakra UI
 
-> [Chakra UI 공식사이트](https://chakra-ui.com/)
+> [Chakra UI 공식사이트](https://chakra-ui.com/)<br>
 > Segun Adebayo가 만든 React용 최신 구성 요소 UI 라이브러리
 
 📌 **설치 방법**
@@ -190,9 +187,9 @@ export default ChakraUI;
 <br>
 <br>
 
-### 👩🏻‍💻 React-Bootstrap
+## 👩🏻‍💻 React-Bootstrap
 
-> [React-Bootstrap 공식사이트](https://react-bootstrap.github.io/)
+> [React-Bootstrap 공식사이트](https://react-bootstrap.github.io/)<br>
 > Bootstrap을 리액트 기반으로 변경한 UI 라이브러리
 
 📌 **설치 방법**
@@ -237,9 +234,9 @@ export default ReactBootstrap;
 <br>
 <br>
 
-### 👩🏻‍💻 Reactstrap
+## 👩🏻‍💻 Reactstrap
 
-> [Reactstrap 공식사이트](https://reactstrap.github.io/)
+> [Reactstrap 공식사이트](https://reactstrap.github.io/)<br>
 > Bootstrap 4.x alpha 버전을 적용한 UI 라이브러리
 
 📌 **설치 방법**
@@ -287,7 +284,7 @@ export default Reactstrap;
 <br>
 <br>
 
-[참고 자료 1](https://usecode.pw/10-best-react-ui-library/)
-[참고 자료 2](https://darrengwon.tistory.com/)
-[참고 자료 3](https://medium.com/@lyh6425/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-ui-kit%EB%93%A4%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90-3a7e44a18359)
+[참고 자료 1](https://usecode.pw/10-best-react-ui-library/)<br>
+[참고 자료 2](https://darrengwon.tistory.com/)<br>
+[참고 자료 3](https://medium.com/@lyh6425/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-ui-kit%EB%93%A4%EC%9D%98-%EC%9E%A5%EB%8B%A8%EC%A0%90-3a7e44a18359)<br>
 [참고 자료 4](https://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
