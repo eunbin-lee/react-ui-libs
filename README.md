@@ -74,7 +74,7 @@ const Hover = styled('div')({
 ## 👩🏻‍💻 Ant Design
 
 > [Ant Design 공식사이트](https://ant.design/)<br>
-> 리액트와 타입스크립트(Typescript) 기반으로 제작된 UI 라이브러리
+> 리액트와 타입스크립트(Typescript) 기반으로 제작된 UI 라이브러리<br>
 > 알리바바 그룹의 자회사로 핀테크 기술을 개발하는 Ant Financial에서 제공
 
 <br>
@@ -122,6 +122,7 @@ export default Antd;
 📌 **단점**
 
 - 사이트나 공식 문서 등은 영어도 지원하지만 github issue에서는 중국어가 자주 등장
+- antd version에 따라 컴파일 에러가 발생하기도 함
 
 <br>
 <br>
